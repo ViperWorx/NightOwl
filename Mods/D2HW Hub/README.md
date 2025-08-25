@@ -32,4 +32,4 @@ All parts have been pre-oriented for support-free printing or include integrated
 
 ## Acknowledgements
 
- - Robert Klotz [ArmoredTurtle](https://github.com/ArmoredTurtle) for the idea of using a D2HW switcha and MR63ZZ Bearing for sensing filament. 
+ - Robert Klotz [ArmoredTurtle](https://github.com/ArmoredTurtle) for the idea of using a D2HW switch and MR63ZZ Bearing for sensing filament. 
